@@ -520,7 +520,7 @@ ul, ol {
     color: #0d62a2 !important; }
   #navigation_container #branding {
     grid-area: branding; }
-    #navigation_container #branding .logo-container.__center {
+    #navigation_container #branding .logo-container._center {
       margin: 0; }
   #navigation_container label[for=menu_icon] {
     grid-area: menu-icon;
@@ -591,7 +591,7 @@ ul, ol {
   font-size: 1.6rem;
   padding-top: 5px;
   text-align: left; }
-  .logo-container.__center {
+  .logo-container._center {
     width: 55px;
     margin: auto; }
 
@@ -620,7 +620,7 @@ ul, ol {
     -webkit-background-size: cover;
             background-size: cover;
     background-position: center center;
-    background-image: url(../images/architecture-building-cebu-1364558.jpg); }
+    background-image: url(../images/pexels-darren-lawrence-4144736.jpg); }
   .post-card .post-card__details, .post_featured .post-card__details {
     text-align: center;
     padding: 28px;
@@ -694,7 +694,7 @@ ul, ol {
     -webkit-background-size: cover;
             background-size: cover;
     background-position: center center;
-    background-image: url(../images/architecture-building-cebu-1364558.jpg); }
+    background-image: url(../images/beach-colorful-colourful-164287.jpg); }
   .post_featured .post_featured__details {
     text-align: center;
     line-height: 1.5rem; }
@@ -753,7 +753,7 @@ ul, ol {
     max-width: 100% !important; } }
 
 #post__single-page .post__featured-image {
-  background-image: url("../images/architecture-building-cebu-1364558.jpg");
+  background-image: url("..images/pexels-darren-lawrence-4144736.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
           background-size: cover;
